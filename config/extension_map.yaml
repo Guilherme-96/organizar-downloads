@@ -1,0 +1,60 @@
+﻿.jpg: Imagens
+.jpeg: Imagens
+.png: Imagens
+.gif: Imagens
+.bmp: Imagens
+.svg: Imagens
+.ico: Imagens
+.webp: Imagens
+
+.xlsx: Arquivos em Excel
+.xlsm: Arquivos em Excel
+.xls: Arquivos em Excel
+.xlsb: Arquivos em Excel
+
+.pdf: Arquivos em PDF
+
+.csv: Arquivos em CSV
+
+.html: Arquivos em HTML
+.htm: Arquivos em HTML
+
+.txt: Arquivos em TXT
+
+.doc: Arquivos em Word
+.docx: Arquivos em Word
+
+.ppt: Arquivos em PowerPoint
+.pptx: Arquivos em PowerPoint
+
+.zip: Arquivos Compactados
+.rar: Arquivos Compactados
+.7z: Arquivos Compactados
+.tar: Arquivos Compactados
+.gz: Arquivos Compactados
+
+.mp4: Videos
+.avi: Videos
+.mkv: Videos
+.mov: Videos
+.wmv: Videos
+.flv: Videos
+.webm: Videos
+
+.mp3: Audios
+.wav: Audios
+.flac: Audios
+.aac: Audios
+.ogg: Audios
+.m4a: Audios
+
+.exe: Executaveis
+.msi: Executaveis
+
+.py: Scripts
+.js: Scripts
+.java: Scripts
+.cpp: Scripts
+.c: Scripts
+.sh: Scripts
+.bat: Scripts
